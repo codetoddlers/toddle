@@ -17,3 +17,37 @@ Allow to: Access e-mail addresses
 Private
 Review and contribute to private and public repos using your e-mail identity and organizations' membership
 Allow to: Read/write profile info ,  Read and push to public and private repos
+
+# Authorize GerritHub
+@codetoddlersGerritHub by gerritforge-ltd
+wants to access your codetoddlers account
+Repositories
+Public repositories
+This application will be able to read and write all public repository data. This includes the following:
+
+Code
+Issues
+Pull requests
+Wikis
+Settings
+Webhooks and services
+Deploy keys
+Learn more
+Organizations and teams
+Read-only access
+This application will be able to read your organization, team membership, and private project boards.
+
+Learn more
+Personal user data
+Email addresses (read-only)
+This application will be able to read your private email addresses.
+
+Learn more
+Authorizing will redirect to 
+https://review.gerrithub.io
+
+Not owned or operated by GitHub
+Created 6 years ago
+More than 1K GitHub users
+Learn more about OAuth 
+https://help.github.com/articles/authorizing-oauth-apps
